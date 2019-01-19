@@ -11,4 +11,4 @@ pip install -r requirements.txt
 python main.py
 
 
- 
+ /home/bin_chen/图片/pick_and_place.png
