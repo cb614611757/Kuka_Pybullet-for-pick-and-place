@@ -10,5 +10,4 @@ The code was tested on Linux with Python3.6. Use of virtualenvs is recommended. 
 pip install -r requirements.txt
 python main.py
 
-![image]
-(https://github.com/cb614611757/Kuka_Pybullet-for-pick-and-place/blob/master/data/train_image/pick_and_place.png)
+![image] (https://github.com/cb614611757/Kuka_Pybullet-for-pick-and-place/blob/master/data/train_image/pick_and_place.png)
